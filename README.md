@@ -1,2 +1,2 @@
-# skivo
+# Skivo
 Skivo Repository
